@@ -1,2 +1,2 @@
 # hello-world
-food repository
+Hello everyone, I like programming and doing things
