@@ -1,2 +1,2 @@
 # hello-world
-food repository
+Hello everyone this my first repository, I like exciting adventures
